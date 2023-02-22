@@ -59,6 +59,7 @@ const SearchContainer = styled(Box)`
   border-radius: 2px;
   margin-left: 20px;
   display: flex;
+  gap: 1rem;
 `;
 
 const InputSearchBase = styled(InputBase)`
